@@ -109,11 +109,13 @@
           {% endfor %}
           {% if site.search_enabled %}
             <!-- Search -->
+            {% comment %}
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
               </button>
             </li>
+            {% endcomment %}
           {% endif %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
@@ -129,6 +131,7 @@
       </div>
     </div>
   </nav>
+  {% comment %}
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
     <progress id="progress" value="0">
@@ -137,4 +140,5 @@
       </div>
     </progress>
   {% endif %}
+    {% endcomment %}
 </header>

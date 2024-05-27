@@ -7,6 +7,17 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Carnegie Melllon University 
 
-Organize your courses by years, topics, or universities, however you like!
+Held office hours, delivered lectures and recitations, curated training data across audio-visual-text domains assignments, mentored student projects: 
+
+- [Introduction to Deep Learning (11-785)](https://deeplearning.cs.cmu.edu/F22/index.html) by [Prof. Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/)
+    - Delivered recitation on face recognition and verification, embedding similarity matching applications
+    - Delivered lecture covering GAN formulation, training, issues with training and mitigation techniques 
+- Introduction to Machine Learning (10-601) by [Prof. Matt Gormley](https://www.cs.cmu.edu/~mgormley/)
+
+### Ashoka University
+Held office hours, designed and graded assignments and exam questions, hosted cryptic hunt : 
+- [Foundations of Computer Science (FC-017)](https://www.ashoka.edu.in/courses/computer-programming-and-applications/#:~:text=While%20establishing%20solid%20foundations%20in%20computer%20programming%2C,that%20not%20only%20bring%20about%20a%20deeper) taught by [Prof.Debayan Gupta](https://debayangupta.com/).
+
+
