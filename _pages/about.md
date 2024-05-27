@@ -13,8 +13,12 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hi! I'm Adi.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a a machine learning Data Scientist at [Thermo Fisher Scientific](https://corporate.thermofisher.com/content/tfcorpsite/us/en/index/about.html). At Thermo, I focus on B2B recommender systems for ecommerce and global sales representatives. I have a broad range of interests ranging from experiment design, scaleable use cases of intelligent system (especially in agriculture) and natural language processing with a focus on domain specific capabilities. I also assist various startups in these areas.
+
+
+Link to your favorite [subreddit](http://reddit.com). 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
