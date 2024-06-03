@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-2-1 
+date: 2023-5-26 
 inline: true
 related_posts: false
 ---
 
-Our poster "A Machine Learning Approach to Evaluate Clinical Trial Criteria" was accepted in AMIA CIC 2023
+Presented our poster "A Machine Learning Approach to Evaluate Clinical Trial Criteria" at AMIA CIC 2023.
