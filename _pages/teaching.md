@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: courses, workshops and teaching material
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ### Carnegie Melllon University 
@@ -12,8 +12,8 @@ nav_order: 6
 Held office hours, delivered lectures and recitations, curated training data across audio-visual-text domains assignments, mentored student projects: 
 
 - [Introduction to Deep Learning (11-785)](https://deeplearning.cs.cmu.edu/F22/index.html) by [Prof. Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/)
-    - Delivered recitation on face recognition and verification, embedding similarity matching applications
-    - Delivered lecture covering GAN formulation, training, issues with training and mitigation techniques 
+    - Delivered recitation on face recognition and verification, embedding similarity matching applications ([video](https://www.youtube.com/watch?v=v84umCoD_7Y&t))
+    - Delivered lecture covering GAN formulation, training, issues with training and mitigation techniques ([video](https://youtu.be/poMsEhHAw0k?si=RMHKYB6vmC0FCcN2))
 - Introduction to Machine Learning (10-601) by [Prof. Matt Gormley](https://www.cs.cmu.edu/~mgormley/)
 
 ### Ashoka University
