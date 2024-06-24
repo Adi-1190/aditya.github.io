@@ -18,6 +18,6 @@ Held office hours, delivered lectures and recitations, curated training data acr
 
 ### Ashoka University
 Held office hours, designed and graded assignments and exam questions, hosted cryptic hunt : 
-- [Foundations of Computer Science (FC-017)](https://www.ashoka.edu.in/courses/computer-programming-and-applications/#:~:text=While%20establishing%20solid%20foundations%20in%20computer%20programming%2C,that%20not%20only%20bring%20about%20a%20deeper) taught by [Prof.Debayan Gupta](https://debayangupta.com/).
+- [Foundations of Computer Science (FC-017)](https://www.ashoka.edu.in/courses/computer-programming-and-applications/#:~:text=While%20establishing%20solid%20foundations%20in%20computer%20programming%2C,that%20not%20only%20bring%20about%20a%20deeper) taught by [Prof.Debayan Gupta](https://debayangupta.com/)
 
 

@@ -21,7 +21,7 @@ My work has been published in IEEE Radar and AMIA, won national competitions and
 
 ~ past life
 
-At CMU, besides academia I spent my time doing research, teaching and playing football. I collaborated on research  with [Prof. Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), [Prof. Rema Padman](https://www.semanticscholar.org/author/R.-Padman/1732864) and [Prof. Seth Goldstein](https://csd.cmu.edu/people/faculty/seth-goldstein). I also led my team to win the [CMU Summer Football Championship](insert_picture). Prior to CMU, I graduated *magna cum laude* in Computer Science from Ashoka University, where I was advised by [Prof. Debayan Gupta](https://debayangupta.com/).
+At CMU, besides academia I spent my time doing research, teaching and playing football. I collaborated on research  with [Prof. Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/), [Prof. Rema Padman](https://www.semanticscholar.org/author/R.-Padman/1732864) and [Prof. Seth Goldstein](https://csd.cmu.edu/people/faculty/seth-goldstein). I also led my team to win the CMU Summer Football Championship. Prior to CMU, I graduated *magna cum laude* in Computer Science from Ashoka University, where I was advised by [Prof. Debayan Gupta](https://debayangupta.com/).
 
 I love meeting cool people on the internet - you can reach me at adiisingh1099@gmail.com
 
