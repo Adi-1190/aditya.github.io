@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working as a Senior Data Scientist at Thermo Fisher Scientific with the Intelligence Generation team in the Data Science Center of Excellence, Corporate.
+Joined the Intelligence Generation team in the Data Science Center of Excellence, Corporate at Thermo Fisher Scientific as a Senior Data Scientist.
