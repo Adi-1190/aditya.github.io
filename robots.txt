@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adi-1190.github.io//sitemap.xml
+Sitemap: https://Adi-1190.github.io/sitemap.xml
