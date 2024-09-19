@@ -106,6 +106,13 @@
                   </div>
                 </li>
               {% else %}
+                {% if p.title == 'cv' %}
+                    <li class="nav-item">
+                    <a class="nav-link" href="{{ '/assets/pdf/Aditya_Singh_Thermo.pdf' | relative_url }}">
+                        {{- p.title }}
+                    </a>
+                    </li>
+                {% else %}
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                   {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
@@ -115,6 +122,7 @@
                     {% endif %}
                   </a>
                 </li>
+                {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}
